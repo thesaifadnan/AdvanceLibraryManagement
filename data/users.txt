@@ -1,0 +1,4 @@
+Adnan,Sheikh,adnan,adnan@123,1
+Anchita,Ghildiyal,anchita,anchita@123,0
+Akshat,Semwal,akshat,akshat123,0
+Manjeet,Mehra,manjeet,manjeet123,0

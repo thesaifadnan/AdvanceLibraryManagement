@@ -1,0 +1,6 @@
+62391,Power,Brian Cox,499.00,08-07-2025,1,
+49234,The Almanack of Naval Ravikant,Eric Jorgenson,599.00,07-07-2025,1,
+10031,Meditations,Marcus Aurelius,269.00,08-07-2025,0,10-07-2025
+22731,The 5am Club,Robbin Sharma,399.00,08-07-2025,1,
+85725,The Book of Life,Adnan Sheikh,349.00,09-07-2025,1,10-07-2025
+86585,Siddhartha,Hermann Hesse,249.00,09-07-2025,1,
